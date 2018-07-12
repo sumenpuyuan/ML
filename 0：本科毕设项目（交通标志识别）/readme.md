@@ -4,3 +4,6 @@ rename.py 是文件改名加生成相应xml文件
 
 生成xml文件是查看的这个工程：https://github.com/ChaoPei/create-voc2007-dataset
 maketxt.py 生成imagesets/main 目录下的四个txt文件
+
+html文件夹里是网页端制作的关键代码
+
